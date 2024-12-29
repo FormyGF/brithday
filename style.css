@@ -27,6 +27,15 @@ body {
     max-width: 100%;
     height: auto;
   }
+  .custom-alert {
+    padding: 20px;
+    background-color: #d00f60;  
+    color: rgb(117, 255, 4);
+    border-radius: 5px;
+    margin: 10px 0;
+    font-family: "Josefin Sans", serif;;
+  }
+  
   
   .btn {
     display: block;
